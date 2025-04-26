@@ -10,12 +10,15 @@
 
 - Uses Matplotlib to create a scatter plot of:
 
-- X-axis: Index (term number)
+    - X-axis: Index (term number)
 
-- Y-axis: Fibonacci number value
+    - Y-axis: Fibonacci number value
 
 ### 🧪 Sample Output
 
-- Enter how many terms of the Fibonacci series you want to display: 8
-- 0 1 1 2 3 5 8 13 
+- Enter how many terms of the Fibonacci series you want to display: 12
+- 0 1 1 2 3 5 8 13 21 34 55 89
 
+  ## Screen shot
+
+  ![Screenshot 2025-04-26 185513](https://github.com/user-attachments/assets/62bc8ea5-0813-4991-874d-62cbff148e99)
